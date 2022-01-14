@@ -1,6 +1,6 @@
 /*Navigation*/
 const links = document.querySelectorAll('.link');
-const sections = document/querySelectorAll('section')
+const sections = document.querySelectorAll('section');
 
 let activeLink = 0;
 
